@@ -5,7 +5,8 @@
 | | |
 | --- | --- |
 | **[kobe](https://github.com/CodeFox-Repo/kobe)** | The terminal IDE for coding agents — fan out many in parallel, each isolated in its own git worktree, all from one screen. Engine-agnostic. |
-| **[brand-studio](https://github.com/Sma1lboy/brand-studio)** | The brand asset pipeline: one `generate → review → settle` loop for logos, release cards, promos and brand video — with a share server for multi-reviewer rounds. |
+| **[brand-studio](https://github.com/Sma1lboy/brand-studio)** | The brand asset pipeline: one `generate → review → settle` loop for logos, release cards and promos — with a share server for multi-reviewer rounds. |
+| **[brand-video](https://github.com/Sma1lboy/brand-video)** | Brand video producer: script or reference footage in, storyboarded Remotion film out — standalone, or as brand-studio's video engine. |
 | **codefox** | Where the fox came from — the original AI project generator. |
 | **[codefox-local](https://github.com/CodeFox-Repo/codefox-local)** | codefox, local-first — the AI project generator running on your own machine. |
 

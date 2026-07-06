@@ -19,3 +19,4 @@ Incubating on [@Sma1lboy](https://github.com/Sma1lboy)'s account — they move i
 | **[mc](https://github.com/Sma1lboy/mc)** | Cross-platform Minecraft launcher built from scratch — Rust core + Tauri v2 + SolidJS, Modrinth- and PCL-style UIs. |
 | **[storyrelay](https://github.com/Sma1lboy/storyrelay)** | Exploring the boundaries of AI development with cutting-edge context systems. |
 | **finagent** | Personal financial agent — multi-analyst stock prediction with a TUI + email gateway. *Private beta.* |
+| **[foxscreen](https://github.com/Sma1lboy/foxscreen)** | *WIP.* |

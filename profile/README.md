@@ -9,6 +9,7 @@
 | **[brand-video](https://github.com/Sma1lboy/brand-video)** | Brand video producer: script or reference footage in, storyboarded Remotion film out — standalone, or as brand-studio's video engine. |
 | **codefox** | Where the fox came from — the original AI project generator. |
 | **[codefox-local](https://github.com/CodeFox-Repo/codefox-local)** | codefox, local-first — the AI project generator running on your own machine. |
+| **[codefox-skill](https://github.com/CodeFox-Repo/codefox-skill)** | codefox as an agent skill — natural language in, a runnable website project out, in your own terminal. |
 
 ### On the bench
 

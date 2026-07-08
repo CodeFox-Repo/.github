@@ -17,6 +17,7 @@ Incubating on [@Sma1lboy](https://github.com/Sma1lboy)'s account — they move i
 
 | | |
 | --- | --- |
+| **[open-design](https://github.com/Sma1lboy/open-design)** | Claude Design, local — the design prompts as a Claude Code skill, plus it reviews and refactors your project's real UI. |
 | **[mc](https://github.com/Sma1lboy/mc)** | Cross-platform Minecraft launcher built from scratch — Rust core + Tauri v2 + SolidJS, Modrinth- and PCL-style UIs. |
 | **[storyrelay](https://github.com/Sma1lboy/storyrelay)** | Exploring the boundaries of AI development with cutting-edge context systems. |
 | **finagent** | Personal financial agent — multi-analyst stock prediction with a TUI + email gateway. *Private beta.* |
